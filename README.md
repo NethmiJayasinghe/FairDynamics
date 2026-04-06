@@ -57,7 +57,7 @@ The project includes:
 
 This project is implemented as a Jupyter notebook.
 
-1. Install basic dependencies
+1. Install basic dependencies:
 Make sure you have Python and Jupyter installed.
 2. Launch Jupyter Notebook
 3. Run all cells
