@@ -66,10 +66,10 @@ The project includes:
 |---|---|---|---|---|
 | COMPAS | **CQL (ours)** | **19.11** | 0.551 | **EO 0.033** |
 | COMPAS | Greedy | 18.85 | 0.550 | EO 0.039 |
-| COMPAS | No Intervention | 12.95 | 0.657 | EO 0.275 |
-| Adult Income | **CQL (ours)** | **14.34** | **0.752** | **DP 0.026** |
+| COMPAS | No Intervention | 12.95 | **0.657** | EO 0.275 |
+| Adult Income | **CQL (ours)** | **14.34** | 0.752 | **DP 0.026** |
 | Adult Income | Greedy | 14.14 | 0.730 | DP 0.033 |
-| Adult Income | No Intervention | 11.77 | 0.802 | DP 0.083 |
+| Adult Income | No Intervention | 11.77 | **0.802** | DP 0.083 |
 
 - **COMPAS:** EO gap reduced ~88% vs no intervention; CQL beats Greedy on both reward and EO gap
 - **Adult Income:** DP gap reduced ~69% vs no intervention; CQL beats Greedy on reward, accuracy, AND DP gap simultaneously
